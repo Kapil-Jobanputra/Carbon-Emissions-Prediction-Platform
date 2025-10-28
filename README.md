@@ -32,10 +32,15 @@
 carbon-emissions-prediction-platform/
 │
 ├── data/ # Sample cleaned dataset
+
 ├── notebooks/ # Jupyter notebooks for analysis
+
 ├── src/ # Flask app and ML scripts
+
 ├── static/ # CSS / JS for web interface
+
 ├── templates/ # HTML files (Flask views)
+
 └── README.md
 
 
