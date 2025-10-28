@@ -16,7 +16,7 @@
 - Cleans and preprocesses data automatically using Pandas  
 - Trains and tests ARIMA and SARIMAX models for CO₂ emission forecasting  
 - Visualizes trends using Matplotlib and Seaborn  
-- Deployed on AWS with Flask web interface for user interaction
+- Deployed on AWS with a Flask web interface for user interaction
 
 ---
 
@@ -80,7 +80,7 @@ Then open your browser and go to `http://127.0.0.1:5000`
 ## 🧩 Future Enhancements
 - Integrate API for real-time data updates.
 - Add user authentication and dashboard analytics.
-- Containerize using Docker for scalable deployment.t
+- Containerize using Docker for scalable deployment.
 
 ---
 ⭐ This project demonstrates data analytics, machine learning, and cloud deployment skills for sustainable tech solutions.
