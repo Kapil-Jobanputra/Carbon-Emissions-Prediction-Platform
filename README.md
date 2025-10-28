@@ -28,3 +28,57 @@
 ---
 
 ## 🗂️ Project Structure
+
+carbon-emissions-prediction-platform/
+│
+├── data/ # Sample cleaned dataset
+├── notebooks/ # Jupyter notebooks for analysis
+├── src/ # Flask app and ML scripts
+├── static/ # CSS / JS for web interface
+├── templates/ # HTML files (Flask views)
+└── README.md
+
+
+---
+
+## 🚀 How to Run Locally
+```bash
+# Clone repository
+git clone https://github.com/Kapil-Jobanputra/carbon-emissions-prediction-platform.git
+
+# Navigate into project
+cd carbon-emissions-prediction-platform
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Flask app
+python app.py
+
+🧾 Results & Insights
+
+Achieved accurate multi-year emission forecasting using ARIMA/SARIMAX.
+
+Helped visualize reduction opportunities and energy trends.
+
+Improved model accuracy by integrating cleaned external datasets (temperature, industry data).
+
+👨‍💻 Role & Responsibilities
+
+Designed and developed the end-to-end architecture using Flask and AWS.
+
+Built a forecasting pipeline and model evaluation framework.
+
+Led data collection, cleaning, and transformation stages in Excel and Python.
+
+Coordinated deployment and presentation to Armanino LLP stakeholders.
+
+🧩 Future Enhancements
+
+Integrate API for real-time data updates.
+
+Add user authentication and dashboard analytics.
+
+Containerize using Docker for scalable deploymen.t
+
+⭐ This project demonstrates data analytics, machine learning, and cloud deployment skills for sustainable tech solutions.
