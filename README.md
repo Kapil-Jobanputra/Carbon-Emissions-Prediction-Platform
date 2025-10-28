@@ -82,5 +82,6 @@ Then open your browser and go to `http://127.0.0.1:5000`
 - Add user authentication and dashboard analytics.
 - Containerize using Docker for scalable deployment.t
 
+---
 ⭐ This project demonstrates data analytics, machine learning, and cloud deployment skills for sustainable tech solutions.
 
