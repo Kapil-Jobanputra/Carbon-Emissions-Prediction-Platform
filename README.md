@@ -30,7 +30,7 @@
 ## 🗂️ Project Structure
 
 carbon-emissions-prediction-platform/
-│
+
 ├── data/ # Sample cleaned dataset
 
 ├── notebooks/ # Jupyter notebooks for analysis
