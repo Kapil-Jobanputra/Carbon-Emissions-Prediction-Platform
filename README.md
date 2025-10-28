@@ -31,17 +31,17 @@
 
 carbon-emissions-prediction-platform/
 
-├── data/ # Sample cleaned dataset
+ ├── data/ # Sample cleaned dataset
 
-├── notebooks/ # Jupyter notebooks for analysis
+ ├── notebooks/ # Jupyter notebooks for analysis
 
-├── src/ # Flask app and ML scripts
+ ├── src/ # Flask app and ML scripts
 
-├── static/ # CSS / JS for web interface
+ ├── static/ # CSS / JS for web interface
 
-├── templates/ # HTML files (Flask views)
+ ├── templates/ # HTML files (Flask views)
 
-└── README.md
+ └── README.md
 
 
 ---
@@ -62,28 +62,28 @@ python app.py
 
 🧾 Results & Insights
 
-Achieved accurate multi-year emission forecasting using ARIMA/SARIMAX.
+- Achieved accurate multi-year emission forecasting using ARIMA/SARIMAX.
 
-Helped visualize reduction opportunities and energy trends.
+- Helped visualize reduction opportunities and energy trends.
 
-Improved model accuracy by integrating cleaned external datasets (temperature, industry data).
+- Improved model accuracy by integrating cleaned external datasets (temperature, industry data).
 
 👨‍💻 Role & Responsibilities
 
-Designed and developed the end-to-end architecture using Flask and AWS.
+- Designed and developed the end-to-end architecture using Flask and AWS.
 
-Built a forecasting pipeline and model evaluation framework.
+- Built a forecasting pipeline and model evaluation framework.
 
-Led data collection, cleaning, and transformation stages in Excel and Python.
+- Led data collection, cleaning, and transformation stages in Excel and Python.
 
-Coordinated deployment and presentation to Armanino LLP stakeholders.
+- Coordinated deployment and presentation to Armanino LLP stakeholders.
 
 🧩 Future Enhancements
 
-Integrate API for real-time data updates.
+- Integrate API for real-time data updates.
 
-Add user authentication and dashboard analytics.
+- Add user authentication and dashboard analytics.
 
-Containerize using Docker for scalable deploymen.t
+- Containerize using Docker for scalable deployment.t
 
 ⭐ This project demonstrates data analytics, machine learning, and cloud deployment skills for sustainable tech solutions.
