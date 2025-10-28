@@ -1,7 +1,7 @@
 # 🌍 Carbon Emissions Prediction Platform
 
 **Cloud-hosted web application built for Armanino LLP**  
-**Tech Stack:** Python · Flask · AWS · Excel · ARIMA · SARIMAX · Pandas · NumPy · Scikit-Learn
+**Tech Stack:** Python · Machine Learning · Flask · AWS · Excel · ARIMA · SARIMAX · Pandas · NumPy · Scikit-Learn
 
 ---
 
