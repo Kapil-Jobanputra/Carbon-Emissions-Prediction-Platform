@@ -60,30 +60,6 @@ pip install -r requirements.txt
 # Run Flask app
 python app.py
 
-🧾 Results & Insights
+```
+Then open your browser and go to `http://127.0.0.1:5000`
 
-- Achieved accurate multi-year emission forecasting using ARIMA/SARIMAX.
-
-- Helped visualize reduction opportunities and energy trends.
-
-- Improved model accuracy by integrating cleaned external datasets (temperature, industry data).
-
-👨‍💻 Role & Responsibilities
-
-- Designed and developed the end-to-end architecture using Flask and AWS.
-
-- Built a forecasting pipeline and model evaluation framework.
-
-- Led data collection, cleaning, and transformation stages in Excel and Python.
-
-- Coordinated deployment and presentation to Armanino LLP stakeholders.
-
-🧩 Future Enhancements
-
-- Integrate API for real-time data updates.
-
-- Add user authentication and dashboard analytics.
-
-- Containerize using Docker for scalable deployment.t
-
-⭐ This project demonstrates data analytics, machine learning, and cloud deployment skills for sustainable tech solutions.
