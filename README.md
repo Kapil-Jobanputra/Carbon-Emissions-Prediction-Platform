@@ -6,8 +6,8 @@
 ---
 
 ## 📘 Overview
-This project predicts and visualizes carbon emissions for organizations using historical data and time-series forecasting models.  
-The platform was developed as part of an academic-industry practicum project to help clients analyze and plan sustainability goals.
+- This project predicts and visualizes carbon emissions for organizations using historical data and time-series forecasting models.  
+- The platform was developed as part of an academic-industry practicum project to help clients analyze and plan sustainability goals.
 
 ---
 
